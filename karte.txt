@@ -1,0 +1,32 @@
+AA0001|19.2.2017.|2/2|100|17.2.2017.|ABC|KZN|23:30|03:00|Air China|Pera|Peric|Srbija|23352|Miki|Cica
+AA0001|24.2.2017.|1/1|100|17.2.2017.|ASF|KZN|7:15|12:15|Aerocondor|Kupac|kupko|Srbija|3354345324|Goki|Gokic
+AA0001|24.2.2017.|1/2|100|17.2.2017.|ASF|KZN|7:15|12:15|Aerocondor|Kupac|Kupko|Srbbb|123231|Miki|Cica
+AA0000|23.2.2017.|1/1|100|18.2.2017.|AER|KZN|2:15|7:15|Aerocondor|Alan|Ford|USA|43423424|Miki|Cica
+AA0000|23.2.2017.|1/2|100|18.2.2017.|AER|KZN|2:15|7:15|Aerocondor|didu|lidu|da|31123|Goki|Gokic
+AA0000|23.2.2017.|1/3|100|18.2.2017.|AER|KZN|2:15|7:15|Aerocondor|e|e|e|e|Goki|Gokic
+AA0000|23.2.2017.|2/1|100|18.2.2017.|AER|KZN|2:15|7:15|Aerocondor|s|s|s|s|Goki|Gokic
+AA0000|23.2.2017.|2/3|100|19.2.2017.|AER|KZN|2:15|7:15|Aerocondor|d|d|d|d|Goki|Gokic
+AA0001|23.2.2017.|16/12|100|19.2.2017.|KZN|DME|8:20|12:15|Aerocondor|d|d|d|d|Miki|Cica
+AA0000|23.2.2017.|2/2|100|19.2.2017.|AER|KZN|2:15|7:15|Aerocondor|f|f|f|f|Miki|Cica
+AA0001|23.2.2017.|1/1|100|19.2.2017.|KZN|DME|8:20|12:15|Aerocondor|f|f|f|f|Miki|Cica
+AA0005|24.2.2017.|26/3|140|19.2.2017.|DME|KZN|5:15|12:15|Aerocondor|f|f|f|f|Miki|Cica
+AA0000|23.2.2017.|1/4|100|19.02.2017.|AER|KZN|2:15|7:15|Aerocondor|s|s|s|s|Miki|Cica
+AA0000|23.2.2017.|14/2|100|19.02.2017.|AER|KZN|2:15|7:15|Aerocondor|s|d|d|d|Miki|Cica
+AA0014|23.2.2017.|4/1|180|19.02.2017.|KZN|ASF|13:45|22:45|Aerocondor|s|d|d|d|Miki|Cica
+AA0001|24.2.2017.|2/1|100|19.02.2017.|ASF|KZN|7:15|12:15|Aerocondor|s|d|d|d|Miki|Cica
+AA0014|24.2.2017.|1/1|180|19.02.2017.|KZN|ASF|13:45|22:45|Aerocondor|s|d|d|d|Miki|Cica
+AA0560|25.2.2017.|1/1|220|19.02.2017.|ASF|DME|18:15|5:15|Moskovia Airlines|s|d|d|d|Miki|Cica
+AA0034|22.2.2017.|1/1|200|19.2.2017.|SVX|NBC|19:00|5:00|Aerocondor|1/2|d|d|d|Miki|Cica
+AA0034|22.2.2017.|1/2|200|19.2.2017.|SVX|NBC|19:00|5:00|Aerocondor|w|w|w|w|Miki|Cica
+AA0034|22.2.2017.|3/4|200|19.2.2017.|SVX|NBC|19:00|5:00|Aerocondor|t|t|t|t|Miki|Cica
+AA0034|22.2.2017.|25/1|200|19.2.2017.|SVX|NBC|19:00|5:00|Aerocondor|t|t|t|y|Miki|Cica
+AA67661|22.2.2017.|1/1|140|21.2.2017.|FRU|OSS|19:15|2:15|Apache Air|Blaaa|BBBB|AAAA|DDDD|Miki|Cica
+AA67660|23.2.2017.|1/1|220|21.2.2017.|FRU|DME|21:00|8:00|Apache Air|Marko|Markovic|Srbija|34323112|Miki|Cica
+AA67661|22.2.2017.|1/2|140|21.2.2017.|FRU|OSS|19:15|2:15|Apache Air|Brt|brt|brt|rbt|Miki|Cica
+AA66140|24.2.2017.|18/4|180|21.2.2017.|FRU|SGC|9:15|18:15|Cyprus Turkish Airlines|Brt|brt|brt|rbt|Miki|Cica
+AA0034|22.2.2017.|4/4|200|19.2.2017.|SVX|NBC|19:00|5:00|Aerocondor|r|r|r|r|Miki|Cica
+AA58353|22.2.2017.|1/1|140|19.02.2017.|TSE|DME|9:30|16:30|Transaero Airlines|q|q|q|q|Miki|Cica
+AA0000|2.3.2017.|2/2|100|21.2.2017.|AER|KZN|2:15|7:15|Aerocondor|Brt|brt|brt|rbt|Miki|Cica
+AA0000|2.3.2017.|2/3|100|21.2.2017.|AER|KZN|2:15|7:15|Aerocondor|q|q|q|q|Miki|Cica
+AA0001|8.3.2017.|25/11|100|23.2.2017.|ASF|KZN|7:15|12:15|Aerocondor|Milan|Pesic|Srbija|12345|Miki|Cica
+AA58511|1.3.2017.|15/4|20|23.2.2017.|KZN|UFA|11:00|12:00|UTair-Express|Ljubisa|Petrovic|Srbija|1234|Miki|Cica

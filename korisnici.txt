@@ -1,0 +1,4 @@
+pera|123|Petar|Zloca|1
+jare|345|Miki|Cica|0
+mica|222|Milo|Dragic|1
+gagi|444|Goki|Gokic|0
